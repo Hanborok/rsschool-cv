@@ -5,5 +5,5 @@ Borok Aleksandr Vyacheslavovich
 - JavaScript
 - HTML
 - CSS
-> I'm the best, you decide.
+> I'm the best, you decide!
 ![](https://commonmark.org/help/images/favicon.png)
