@@ -1,6 +1,6 @@
 Borok Aleksandr Vyacheslavovich
 
-+375(29)7165646
++375297165646
 - English language A1
 - JavaScript
 - HTML
